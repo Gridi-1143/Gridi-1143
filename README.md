@@ -1,16 +1,13 @@
-## Hi there 👋
+## Look under my profile picture to see my name
 
-<!--
-**Gridi-1143/Gridi-1143** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Student. Planning on becoming a DevOps engineer/SysAdmin in the future but don't mind gaining experience in other fields
 
-Here are some ideas to get you started:
+I enjoy writing in C and Shell, and working with CLI tools.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently trying to configure my home cloud server with docker.
+
+#
+
+If you are from Ukraine you may be interested in projects below.
+
+If you are from rusia please don't forget to donate to [charity](https://www.sternenkofund.org/en/fundraisings/rusoriz#donate) to optimize your country's population 🙏
