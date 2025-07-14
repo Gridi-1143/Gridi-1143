@@ -1,10 +1,10 @@
 ## Look under my profile picture to see my name
 
-Student. Planning on becoming a DevOps engineer/SysAdmin in the future but don't mind gaining experience in other fields
+Student. Planning on becoming a DevOps engineer/SysAdmin in the future but don't mind gaining experience in other fields.
 
-I enjoy writing in C and Shell, and working with CLI tools.
+I enjoy writing in C and Shell, and also working with CLI tools.
 
-Currently trying to configure my home cloud server with docker.
+Currently configuring my own file cloud server with docker.
 
 #
 
