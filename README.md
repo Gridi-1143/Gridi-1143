@@ -1,4 +1,4 @@
-## Look under my profile picture to see my name
+## Me
 
 Student. Planning on becoming a DevOps engineer/SysAdmin in the future but don't mind gaining experience in other fields.
 
