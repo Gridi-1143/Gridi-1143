@@ -4,8 +4,6 @@ Student. Planning on becoming a DevOps engineer/SysAdmin in the future but don't
 
 I enjoy writing in C and Shell, and also working with CLI tools.
 
-Currently configuring my own file cloud server with docker.
-
 #
 
 If you are from Ukraine you may be interested in projects below.
