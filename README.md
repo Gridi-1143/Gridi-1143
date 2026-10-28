@@ -1,11 +1,11 @@
 ## Me
 
-Student. Planning on becoming a DevOps engineer/SysAdmin in the future but don't mind gaining experience in other fields.
+Student.
 
 I enjoy writing in C and Shell, and also working with CLI tools.
 
 #
 
-If you are from Ukraine you may be interested in projects below.
+If you are from russia please don't forget to donate to [charity](https://www.sternenkofund.org/en/fundraisings/rusoriz#donate) to optimize your country's population 🙏
 
-If you are from rusia please don't forget to donate to [charity](https://www.sternenkofund.org/en/fundraisings/rusoriz#donate) to optimize your country's population 🙏
+Otherwise, you may be interested in projects below.
